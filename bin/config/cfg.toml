@@ -1,0 +1,11 @@
+debug = true
+
+[grpc]
+address = "127.0.0.1"
+port = 28080
+
+[live]
+name = "树莓派001"
+base_url = "rtmp://127.0.0.1:1935"
+app_name = "live"
+live_id = "rpi001"
